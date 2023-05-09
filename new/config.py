@@ -7,7 +7,7 @@ app_secret = "5e034913a62d4aaf232732afc4c1a6cf"
 template_id = "WfPtz1YY-bmeCnZ8252ae-DbX8xKq4PbAWtxu80Zozk"
 # 接收公众号消息的微信号
 # 这是我的
-users = "ol0Wd54lFUsUzWCvEYh_DfKKZUYA"
+users = ""
 # 这是宝宝的
 user = "ol0Wd54lFUsUzWCvEYh_DfKKZUYA"
 
